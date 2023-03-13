@@ -1,5 +1,3 @@
-able File  5 lines (4 sloc)  126 Bytes
-
 #!/usr/bin/node
 // Script that prints “JavaScript is amazing”
 
